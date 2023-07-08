@@ -7,3 +7,8 @@
  2. Kỹ năng/chiêu thức JX3
 
 `data/talent.csv`
+
+
+
+# Tài nguyên khác
+[Google Drive](https://social.vl3box.com/resources)
