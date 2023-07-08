@@ -2,4 +2,8 @@
 
 1. Từ điển chữ Hán giản thể sang Hán-Việt:
 
- `hans-vi.json`
+ `data/hans-vi.json`
+
+ 2. Kỹ năng/chiêu thức JX3
+
+`data/talent.csv`
